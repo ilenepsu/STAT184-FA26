@@ -8,8 +8,6 @@ library(dplyr)
 library(tidyr)
 library(readr)
 library(sf)
-vehicles <- ggplot2::mpg # Full dataset
-gems <- ggplot2::diamonds # Full dataset
 
 
 # -------
